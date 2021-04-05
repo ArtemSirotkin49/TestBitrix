@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd19066f-3ea7-4dc7-a0eb-dc978c6e72d8" name="test" url="http://ftp-170109.srv.hoster.ru">
+        <fileTransfer rootFolder="/srv170109.hoster-test.ru" host="ftp-170109.srv.hoster.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

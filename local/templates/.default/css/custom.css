@@ -1,0 +1,12 @@
+.td_border {
+    border: 1px solid black !important;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+}
+.mrg_top20 {
+    margin-top: 20px;
+}
+.td_grey {
+    background-color: grey;
+}
